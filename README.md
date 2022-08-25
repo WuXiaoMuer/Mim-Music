@@ -1,5 +1,7 @@
 # Mim-Music
 Use Bass to play music.
+> Allow time to release the source code.
+> ![](https://img.shields.io/badge/Time-In a finite time.-blue)
 # Look Video:
 https://www.bilibili.com/video/BV1vV411n7Le
 

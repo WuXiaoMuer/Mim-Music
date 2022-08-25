@@ -2,7 +2,7 @@
 Use Bass to play music.
 
 Allow time to release the source code.
-![TimeInCode]([https://img.shields.io/badge/Time-In a finite time.-blue](https://img.shields.io/badge/Time-In%20a%20finite%20time.-blue))
+![TimeInCode](https://img.shields.io/badge/Time-In%20a%20finite%20time.-blue)
 
 # Look Video:
 https://www.bilibili.com/video/BV1vV411n7Le

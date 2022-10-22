@@ -14,6 +14,10 @@ https://www.bilibili.com/video/BV1BY411w7mz
 
 https://www.bilibili.com/video/BV1qB4y1z71o
 
-# Test Pic:
+# Test Pic :
+Releases 1.35
 ![TestImg01](/TestImg/Test01.png)
 ![TestImg02](/TestImg/Test02.png)
+Releases 1.5
+![img](/TestImg/1.5.png)
+![img](/TestImg/1.51.png)

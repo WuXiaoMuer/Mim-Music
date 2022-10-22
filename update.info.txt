@@ -1,9 +1,9 @@
 {
-	"update": "1.4.0.0",
+	"update": "1.5.0.0",
 	"file": [{
 		"name": "Mim Music.exe",
 		"file": "https://gitee.com/wuxiaomu/mim-music/raw/master/Mim%20Music.exe",
-		"md5": "4241078243cae357b9cb926d631beaf7"
+		"md5": "2e028363d952b9e346fc2990069a9ece"
 	}]
 
 }

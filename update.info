@@ -1,9 +1,12 @@
 {
-	"update": "1.5.1.0",
+	"update": "1.6.0.0",
+    	"upfile":"https://wwp.lanzoul.com/imc6Y0jbdref",
+    	"uppwd":"97ia",
 	"file": [{
 		"name": "Mim Music.exe",
-		"file": "https://gitee.com/wuxiaomu/mim-music/raw/master/Mim%20Music.exe",
-		"md5": "eebbe7b0e6c835e52dedd14c159a813a"
+		"file": "https://wwp.lanzoul.com/iO3560jbdsda",
+		"md5": "579880cc7d17a7d06b894f844756ac0c",
+        "pwd":"20be"
 	}]
 
 }
